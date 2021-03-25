@@ -45,20 +45,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:  
-  
       
 #### Easy difficulity - Classic mode:  
-
-  
-    
-    
-
 ![](https://im3.ezgif.com/tmp/ezgif-3-2b6e63eb78a5.gif)
         
-
 #### Hard difficulity - Unlimited mode:
-
-
 ![](https://im3.ezgif.com/tmp/ezgif-3-bbecec7fc850.gif)
 
 ## Reflection Questions
