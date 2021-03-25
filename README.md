@@ -7,6 +7,7 @@ Submitted by: **Fahad Alothman**
 Time spent: **8** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/rambunctious-carbonated-wire)
+
 Live site: (https://rambunctious-carbonated-wire.glitch.me)
 
 ## Required Functionality
