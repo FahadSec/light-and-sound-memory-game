@@ -58,11 +58,17 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
 https://www.w3schools.com/html/html_paragraphs.asp
+
 https://www.w3schools.com/js/js_arrays.asp
+
 https://stackoverflow.com/questions/5119711/whats-the-easiest-way-to-put-space-between-2-side-by-side-buttons-in-asp-net
+
 https://stackoverflow.com/questions/40858456/how-to-display-a-javascript-var-in-html-body
+
 https://cssgradient.io/
+
 http://www.sengpielaudio.com/calculator-notenames.htm
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
