@@ -1,0 +1,73 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Trebuchet MS', arial, sans-serif;
+  margin: 2em;
+  
+  background-color: #351938;
+  color: white; 
+
+}
+
+h1 {
+  font-family: 'Trebuchet MS', arial, sans-serif; 
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  width:150px;
+  background:#713778;
+  color: white;
+  font-size:14px;
+  font-family:verdana;
+
+}
+
+#gameButtonArea > button {
+  width:210px;
+  height:160px;
+  margin:5px;
+}
+
+#changeDiffBtn {
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: #19d480;
+}
+
+#button2 {
+    background: #366fff;
+}
+
+#button3 {
+    background: #ff6bab;
+}
+
+#button4 {
+    background: #ffe940;
+}
+
+#button1:active, #button1.lit {
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(25,212,128,1) 100%);
+}
+
+#button2:active, #button2.lit  {
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(54,111,255,1) 100%);
+}
+
+#button3:active, #button3.lit  {
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,107,171,1) 100%);
+}
+
+#button4:active, #button4.lit  {
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,233,64,1) 100%);
+}
