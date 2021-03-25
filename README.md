@@ -69,7 +69,7 @@ I didn't encounter any significant challenges. However I had to look up some HTM
 Math.random and javascript arrays. I also looked up how to put a space between two buttons in CSS, to seperate the start buttons from
 change difficulity button. And I also looked up how to display a javascript variable in an HTML body. (the resources used are linked above).
 Also, with the added difficulity levels and the unlimated mode, I encountered some problems like buttons showing up where they are not supposed to
-, and where if you press "easy" multiple times they pattern array will keep decreasing more and more, I fixed these problems by debugging the code
+, and where if you press "easy" multiple times the pattern array will keep getting smaller more and more, I fixed these problems by debugging the code
 and trying to think of a way to solve them. For example, I solved the error with the "easy" button by making a resetPattern() function which basically
 resets the pattern back to 8, and used that whenever the difficlity buttons are pressed. I also had a problem with the speeding up clue playback, where
 it keep decreasing super fast, but I fixed that by trying out different values until I found the appropiate speeds, and also set a conditional so it 
@@ -86,8 +86,8 @@ I'm also interested in learning about other wep languages like PHP and and how t
 
 If I had more time on this project, I would add more features to the game to improve replayability. For example, I would try to implement a system where players can create an account and keep their best scores recorded and can compete with others' best scores in a leaderboard. 
 To improve replayability further, I would add the option to unlock certain game themes and sounds if a particular score in the unlimited mode is reached.
-Additionally, I would try to make the game mobile-friendly so it' accessible for more people. (And maybe monetize the game with ads ;p).
-I would also add an option to recieve feedback/suggestions from players so I can improve the game further.
+Additionally, I would try to make the game mobile-friendly so it's accessible for more people. (And maybe monetize the game with ads ;p).
+I would also add an option to recieve feedback/suggestions from players so I can improve the game even further.
 
 
 ## License
